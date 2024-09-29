@@ -1,0 +1,3 @@
+[submodule "packages/test-sub-package"]
+	path = packages/test-sub-package
+	url = https://github.com/brightsidedeveloper/test-sub-package.git
